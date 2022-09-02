@@ -3,7 +3,7 @@ Name=Jupyter Lab
 Comment=Start Jupyter Lab server
 Comment=Jupyter Lab
 Exec=gnome-terminal -e "nohup sh -c 'jupyter lab --port 8888 --no-browser & sleep 1 && chromium --app=http://localhost:8888 & disown'"
-Icon=/home/subhajit/.local/share/icons/hicolor/scalable/apps/notebook.svg
+#Icon=/home/<user>/.local/share/icons/hicolor/scalable/apps/notebook.svg
 Terminal=false
 Type=Application
 Categories=Development;
