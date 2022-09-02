@@ -7,6 +7,6 @@ You can also edit the file in any editor. I have commented the 'icon' line purpo
 
 If you close your browser accidently the sever and process would continue running. If you want to terminate the process relaunch it and click on the 'shut down' option in jupyter-lab under file menu.
 
-If you logout from a running session, the server still runs in the background. To relogin to the session you would be asked for a token which you can find it by running the command "jupyter-lab list" in the terminal.
+To relogin into a logged out session you would be asked for a token which you can find it by running the command "jupyter-lab list" in the terminal.
 
 For understanding the command in the 'Exec' field in the .desktop file, just google them and you will get to know.
