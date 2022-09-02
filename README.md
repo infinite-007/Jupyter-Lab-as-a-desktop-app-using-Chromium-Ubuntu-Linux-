@@ -9,4 +9,4 @@ If you close your browser accidently the sever and process would continue to be 
   
 If you want to close the session just click on the 'shut down' option in jupyter-lab under file menu.
   
-For understanding the command in the 'Exec' field in the .desktop file just google them and you will get to know.
+For understanding the command in the 'Exec' field in the .desktop file, just google them and you will get to know.
