@@ -6,5 +6,7 @@ With the help of a .desktop file in Ubuntu/linux one can put those commands as a
 You can also edit the file in any editor. I have commented the 'icon' line purposefully. If you also want to have an icon for the laucher then first confirm by navigating to the path mentioned against the 'icon' field and search for any png or svg file of jypyter logo. If you do find just comment out the 'icon' field (BTW you can also download any logo according to your choice and place somewhere and mention the path against the 'icon').
 
 If you close your browser accidently the sever and process would continue running. If you want to terminate the process relaunch it and click on the 'shut down' option in jupyter-lab under file menu.
-  
+
+If you logout from a running session, the process still runs in the background. To relogin to the session you would be asked for a token which you can find it by running the command "jupyter-lab list" in the terminal.
+
 For understanding the command in the 'Exec' field in the .desktop file, just google them and you will get to know.
