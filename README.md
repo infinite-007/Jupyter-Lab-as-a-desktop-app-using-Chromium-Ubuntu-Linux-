@@ -9,7 +9,5 @@ If you close your browser accidently the sever and process would continue runnin
 
 To relogin into a logged out session you would be asked for a token which you can find it by running the command "jupyter-lab list" in the terminal.
 
-For understanding the command in the 'Exec' field in the .desktop file, just google them and you will get to know.
-
 # Prerequisites
 Chromium installed
