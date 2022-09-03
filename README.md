@@ -11,5 +11,5 @@ To relogin into a logged out session you would be asked for a token which you ca
 
 For understanding the command in the 'Exec' field in the .desktop file, just google them and you will get to know.
 
-#Prerequisites
+# Prerequisites
 Chromium installed
