@@ -3,7 +3,7 @@ Running jupyter as chrome app is not possible by changing the jupyter-config fil
 
 With the help of a .desktop file in Ubuntu/linux one can put those commands as a script so that with double click, without opening terminal and typing, one can easily open jupyter as a chromium app. In this repository I have uploaded the .desktop file. Just download it and place it in your desktop and allow launching.
 
-You can also edit the file in any editor. For getting an icon for your launcher relace <user> in the icon field accordingly.
+You can also edit the file in any editor. For getting an icon of your launcher replace <user> in the icon field accordingly.
 
 If you close your browser accidently the sever and process would continue running. If you want to terminate the process relaunch it and click on the 'shut down' option in jupyter-lab under file menu.
 
